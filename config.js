@@ -4,7 +4,7 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+92 3481476707', '𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈', true]
+  ['923481476707', 'ρꫝꪖꪀꪻꪮꪑ', true]
 ]
 // Put your number here
 // [number, he creator/owner?, he developer?]
@@ -13,12 +13,12 @@ global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 
 // api key here okay
-global.xyro = 'LyrK9JMI7N' // https://api.xyroinee.xyz free limit unlimited
+global.xyro = 'iUEAH4uwBB' // https://api.xyroinee.xyz free limit unlimited
 global.apilol = 'BrunoSobrino_2' // https://api.lolhuman.xyz free limit unlimited by @BrunoSobrino
 
 global.APIs = { // API Prefix
   // name: 'https://website'
-  nrtm: 'https://nurutomo.herokuapp.com',
+  nrtm: 'https://zoromdx-d0d0656c4cc1.herokuapp.com/',
   xteam: 'https://api.xteam.xyz'
 }
 global.APIKeys = { // APIKey Here
@@ -42,9 +42,9 @@ global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ 𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈 - 2023'
-global.bott = 'zoro md'
-global.nomorown = '916235050956'
+global.me = 'Contact Me At wa.me/923481476707'
+global.bott = 'Phantom Bot'
+global.nomorown = '923481476707'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
